@@ -1,0 +1,21 @@
+main: me.Tiernanator.Flight.Main
+version: 1.0
+name: Flight
+description: Come fly with me...
+load: POSTWORLD
+author: Tiernanator
+website: None
+database: false
+depend: [Utilities]
+prefix: Fly
+softdepend: []
+loadbefore: []
+commands:
+    toggleFlight:
+        description: Allows you to fly if you have permission.
+#       permission: player.fly
+
+#permissions:
+#    player.fly:
+#        description: Allows you to fly.
+#        default: op
