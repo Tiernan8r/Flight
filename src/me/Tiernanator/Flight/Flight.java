@@ -5,9 +5,9 @@ import org.bukkit.scheduler.BukkitRunnable;
 public class Flight extends BukkitRunnable {
 
 	@SuppressWarnings("unused")
-	private Main plugin;
+	private FlightMain plugin;
 
-	public Flight(Main main) {
+	public Flight(FlightMain main) {
 		plugin = main;
 	}
 

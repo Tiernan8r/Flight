@@ -1,4 +1,4 @@
-main: me.Tiernanator.Flight.Main
+main: me.Tiernanator.Flight.FlightMain
 version: 1.0
 name: Flight
 description: Come fly with me...

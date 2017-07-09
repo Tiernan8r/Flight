@@ -12,13 +12,13 @@ import me.Tiernanator.Colours.Colour;
 public class FlightCommand implements CommandExecutor {
 
 	@SuppressWarnings("unused")
-	private Main plugin;
+	private FlightMain plugin;
 	
 	ChatColor warning;
 	ChatColor good;
 	ChatColor informative;
 	
-	public FlightCommand(Main main) {
+	public FlightCommand(FlightMain main) {
 		plugin = main;
 	}
 

@@ -8,7 +8,7 @@ import org.bukkit.event.player.PlayerJoinEvent;
 
 public class ApplyFlightOnPlayerJoin implements Listener {
 
-	public ApplyFlightOnPlayerJoin(Main main) {
+	public ApplyFlightOnPlayerJoin(FlightMain main) {
 	}
 
 	/*
